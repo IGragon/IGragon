@@ -1,5 +1,10 @@
-## Hi there 👋
+## Igor Abramov
+**Machine Learning Engeneer / Data Scientist**
 
+### [CV](https://docs.google.com/document/d/1bcEYNfncrWbvOBlZaUsaNr7BZAysp4HcKvGmkGujfPU/edit?usp=sharing)
+
+- 🔭 I’m currently working in FinTech in the field of application of ML and DS in Trading.
+- 🌱 I’m currently a Bachelor's student in Innopolis University.
 <!--
 **IGragon/IGragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
